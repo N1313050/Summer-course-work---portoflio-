@@ -1,6 +1,5 @@
 # Summer-course-work---portoflio-
-
-as i dont have a hosting site , please open file index.html and go from there . 
+As I have a hosting site here is the link to it https://generous-pig.static.domains/index.html , if it doesnt work please  open file index.html and go from there . 
  but if you want to you can look at the code here it is  :
 <!DOCTYPE html>
 <html lang="en">

@@ -1,7 +1,7 @@
 # Summer-course-work---portoflio-
 
-as i dont have a hosting site , pls go  to the index file and go there . 
-thank you  sorry for the misunderstaning ,  but if you want to you can look at the code :
+as i dont have a hosting site , please open file index.html and go from there . 
+ but if you want to you can look at the code here it is  :
 <!DOCTYPE html>
 <html lang="en">
 <head>
